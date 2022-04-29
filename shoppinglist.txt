@@ -4,3 +4,7 @@ List of fruits
 2. Banana
 3. Mango
 5. new fruit
+6. alu
+7. torkari
+8. puishag
+9. dosa
