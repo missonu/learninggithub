@@ -4,3 +4,7 @@ List of fruits
 2. Banana
 3. Mango
 5. new fruit
+6. bhaja
+7. bora
+8. misti
+9. doi
